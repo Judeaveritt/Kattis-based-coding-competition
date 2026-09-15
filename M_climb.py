@@ -1,5 +1,5 @@
 """
-this program has code the the problem M_climb
+This program has code the the problem M_climb. It multiples rocks by numbers of liters.
 Jude averitt - september 2026
 """
 
